@@ -1,0 +1,7 @@
+tensorflow
+keras
+matplotlib
+numpy
+keras-visualizer
+
+# You should install graphviz
